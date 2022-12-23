@@ -1,0 +1,37 @@
+2022/12/23-12:12:35.004 14cc Reusing MANIFEST C:\Users\breno\OneDrive\Área de Trabalho\BOTZAP\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/23-12:12:35.005 14cc Recovering log #529
+2022/12/23-12:12:35.007 14cc Reusing old log C:\Users\breno\OneDrive\Área de Trabalho\BOTZAP\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000529.log 
+2022/12/23-12:12:35.008 14cc Delete type=2 #533
+2022/12/23-12:12:35.008 14cc Delete type=2 #534
+2022/12/23-12:12:35.008 14cc Delete type=2 #535
+2022/12/23-12:12:35.008 14cc Delete type=2 #536
+2022/12/23-12:12:35.008 14cc Delete type=2 #537
+2022/12/23-12:12:35.008 14cc Delete type=2 #538
+2022/12/23-12:12:35.008 14cc Delete type=2 #539
+2022/12/23-12:12:35.016 14cc Delete type=2 #540
+2022/12/23-12:12:35.016 14cc Delete type=2 #541
+2022/12/23-12:12:45.266 804 Compacting 1@1 + 10@2 files
+2022/12/23-12:12:45.424 804 Generated table #534@1: 41668 keys, 2260364 bytes
+2022/12/23-12:12:45.480 804 Generated table #535@1: 3426 keys, 2155832 bytes
+2022/12/23-12:12:45.557 804 Generated table #536@1: 3340 keys, 2160662 bytes
+2022/12/23-12:12:45.613 804 Generated table #537@1: 2999 keys, 2158467 bytes
+2022/12/23-12:12:45.672 804 Generated table #538@1: 2797 keys, 2155119 bytes
+2022/12/23-12:12:45.740 804 Generated table #539@1: 13590 keys, 2166383 bytes
+2022/12/23-12:12:45.872 804 Generated table #540@1: 30491 keys, 2268931 bytes
+2022/12/23-12:12:45.993 804 Generated table #541@1: 27474 keys, 2260760 bytes
+2022/12/23-12:12:46.068 804 Generated table #542@1: 12856 keys, 2138219 bytes
+2022/12/23-12:12:46.201 804 Generated table #543@1: 84616 keys, 2229597 bytes
+2022/12/23-12:12:46.219 804 Generated table #544@1: 9951 keys, 217117 bytes
+2022/12/23-12:12:46.219 804 Compacted 1@1 + 10@2 files => 22171451 bytes
+2022/12/23-12:12:46.223 804 compacted to: files[ 0 1 18 0 0 0 0 ]
+2022/12/23-12:12:46.224 804 Delete type=2 #517
+2022/12/23-12:12:46.224 804 Delete type=2 #518
+2022/12/23-12:12:46.224 804 Delete type=2 #519
+2022/12/23-12:12:46.224 804 Delete type=2 #520
+2022/12/23-12:12:46.224 804 Delete type=2 #521
+2022/12/23-12:12:46.224 804 Delete type=2 #522
+2022/12/23-12:12:46.225 804 Delete type=2 #523
+2022/12/23-12:12:46.225 804 Delete type=2 #524
+2022/12/23-12:12:46.225 804 Delete type=2 #525
+2022/12/23-12:12:46.225 804 Delete type=2 #526
+2022/12/23-12:12:46.225 804 Delete type=2 #531

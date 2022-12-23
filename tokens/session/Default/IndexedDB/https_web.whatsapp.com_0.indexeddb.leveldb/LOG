@@ -1,0 +1,38 @@
+2022/12/23-12:18:54.697 5d0 Reusing MANIFEST C:\Users\breno\OneDrive\Área de Trabalho\BOTZAP\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/23-12:18:54.697 5d0 Recovering log #529
+2022/12/23-12:18:54.734 5d0 Reusing old log C:\Users\breno\OneDrive\Área de Trabalho\BOTZAP\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000529.log 
+2022/12/23-12:19:08.639 5d0 Level-0 table #547: started
+2022/12/23-12:19:08.692 5d0 Level-0 table #547: 1242231 bytes OK
+2022/12/23-12:19:08.697 5d0 Delete type=0 #529
+2022/12/23-12:19:18.629 3684 Compacting 1@0 + 1@1 files
+2022/12/23-12:19:18.701 3684 Generated table #548@0: 16365 keys, 524450 bytes
+2022/12/23-12:19:18.717 3684 Generated table #549@0: 9669 keys, 204044 bytes
+2022/12/23-12:19:18.718 3684 Compacted 1@0 + 1@1 files => 728494 bytes
+2022/12/23-12:19:18.721 3684 compacted to: files[ 0 2 18 0 0 0 0 ]
+2022/12/23-12:19:18.722 3684 Delete type=2 #532
+2022/12/23-12:19:18.722 3684 Delete type=2 #547
+2022/12/23-12:20:07.825 342c Compacting 1@1 + 10@2 files
+2022/12/23-12:20:07.987 342c Generated table #550@1: 40652 keys, 2266285 bytes
+2022/12/23-12:20:08.072 342c Generated table #551@1: 7973 keys, 2162375 bytes
+2022/12/23-12:20:08.134 342c Generated table #552@1: 3317 keys, 2160295 bytes
+2022/12/23-12:20:08.205 342c Generated table #553@1: 3079 keys, 2157460 bytes
+2022/12/23-12:20:08.267 342c Generated table #554@1: 2762 keys, 2155161 bytes
+2022/12/23-12:20:08.358 342c Generated table #555@1: 9420 keys, 2157785 bytes
+2022/12/23-12:20:08.509 342c Generated table #556@1: 31613 keys, 2264694 bytes
+2022/12/23-12:20:08.655 342c Generated table #557@1: 28802 keys, 2261529 bytes
+2022/12/23-12:20:08.722 342c Generated table #558@1: 13972 keys, 2148739 bytes
+2022/12/23-12:20:08.867 342c Generated table #559@1: 74279 keys, 2215972 bytes
+2022/12/23-12:20:08.884 342c Generated table #560@1: 11325 keys, 247636 bytes
+2022/12/23-12:20:08.885 342c Compacted 1@1 + 10@2 files => 22197931 bytes
+2022/12/23-12:20:08.888 342c compacted to: files[ 0 1 19 0 0 0 0 ]
+2022/12/23-12:20:08.889 342c Delete type=2 #534
+2022/12/23-12:20:08.889 342c Delete type=2 #535
+2022/12/23-12:20:08.889 342c Delete type=2 #536
+2022/12/23-12:20:08.889 342c Delete type=2 #537
+2022/12/23-12:20:08.889 342c Delete type=2 #538
+2022/12/23-12:20:08.889 342c Delete type=2 #539
+2022/12/23-12:20:08.889 342c Delete type=2 #540
+2022/12/23-12:20:08.889 342c Delete type=2 #541
+2022/12/23-12:20:08.889 342c Delete type=2 #542
+2022/12/23-12:20:08.889 342c Delete type=2 #543
+2022/12/23-12:20:08.889 342c Delete type=2 #548
